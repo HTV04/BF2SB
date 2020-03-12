@@ -7,7 +7,7 @@ This is a tool that converts brainfuck code to SmileBASIC 3 code. It features a 
 
 If you want to learn more about Brainfuck, go here: https://esolangs.org/wiki/Brainfuck
 
-Features added in v2.0 (apart from the whopping size increase from 5.1 KB to 19.0 KB!):
+Features added in v2.0:
 * Brainfuck code can now be optimized (on by default).
 * Updated converted code optimization to support more sets of code.
 * Heavily improved indentation. It is now done alongside the conversion process and is a lot faster.
