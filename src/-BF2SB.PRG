@@ -40,7 +40,7 @@ VAR SBNEWLINES=1
 '----
 
 '--Setup--
-VAR VER$="2.2 (otyaSB)"
+VAR VER$="2.2.1 (otyaSB)"
 PRINT "BF2SB v"+VER$
 PRINT "By HTV04"
 PRINT ""
