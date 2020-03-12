@@ -1,4 +1,4 @@
-'BF2SB v2.2.1 (SB3)
+'BF2SB v2.2.1 (otyaSB)
 'By HTV04
 
 'IMPORTANT: Read "-README.TXT" for
