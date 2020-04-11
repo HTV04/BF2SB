@@ -28,7 +28,7 @@ Options:
   - BITWIDTH:
     - Width of bits.
     - Possible values: any positive integer.
-	- Recommended values: 8 (8-bit, standard), 16 (16-bit), 32 (32-bit)
+    - Recommended values: 8 (8-bit, standard), 16 (16-bit), 32 (32-bit)
     - Default: 8 (8-bit, standard)
   - SIGNEDINT:
     - Choose whether integers are signed or unsigned.
