@@ -37,8 +37,8 @@ Options:
 - Converted code options:
   - SBXSX, SBXSY, SBXSCM, SBXSAR (SB4 Only):
     - XSCREEN Options for converted program.
-	- Possible values: all valid XSCREEN values
-	- Default: X=640, Y=360, CM=2, AR=0
+    - Possible values: all valid XSCREEN values
+    - Default: X=640, Y=360, CM=2, AR=0
   - SBCOMMENT:
     - Add extra comments to the converted program.
     - Possible values: 0 (off), 1 (on)
