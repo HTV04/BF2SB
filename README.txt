@@ -3,7 +3,7 @@ By HTV04
 
 BF2SB is a brainf**k converter that converts brainf**k code to SmileBASIC code.
 
-Thanks to phil_ (IAmAPerson620) for the base code. You can download his original program here: 2KE3384V
+Thanks to phil_ (IAmAPerson620) for the base code. You can download her original program here: 2KE3384V
 
 Also thanks to snail_ (MrCashews) for the REPLACE$() and COUNT() functions from his YARN.LIB library, which can be downloaded here: Q33J44BD
 
