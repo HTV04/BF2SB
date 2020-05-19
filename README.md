@@ -1,5 +1,5 @@
 # BF2SB v2.2.2 [otyaSB]
-NOTE: This version of BF2SB is now unsupported. Check out the updated SmileBASIC 4 version here: https://smilebasicsource.com/page?pid=1378
+NOTE: This version of BF2SB is now unsupported. Check out the updated SmileBASIC 4 version here: https://new.smilebasicsource.com/pages/299
 
 SmileBASIC 3 version (unsupported): https://smilebasicsource.com/page?pid=1489
 
